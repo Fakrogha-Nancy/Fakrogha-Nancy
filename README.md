@@ -3,7 +3,7 @@
 I am a Data Analyst with key competencies in visualization, data cleaning, data modelling and data analytics to improve digital solutions through data.
 
 ## Get to Know Me:
-Skills - Dax/ Python/ SQL/ Power BI
+__Skills__ - Dax/ Python/ SQL/ Power BI
 
 - 🔭 I’m currently working on Open Source Contributions 
 - 🌱 I’m currently learning Dax and Visualization using Power BI 
