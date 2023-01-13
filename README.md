@@ -1,13 +1,13 @@
 # Hi, i'm Fakrogha Nancy.👋
 
-I am a Data Analyst with key competencies in visualization, data cleaning, data modelling and data analytics to improve digital solutions through data.
+I am a Product manager with key competencies in visualization, data analytics, written and oral communication to improve digital solutions through data.
 
 ## Get to Know Me:
-__Skills__ - Dax/ Python/ SQL/ Power BI
+__Skills__ - spreadsheets/ SQL/ Power BI
 
 - 🔭 I’m currently working on Open Source Contributions 
-- 🌱 I’m currently learning Dax and Visualization using Power BI 
-- 👯 I’m looking to collaborate on data science/analytics Projects 
+- 🌱 I’m currently SQL 
+- 👯 I’m looking to collaborate on Projects 
 - 📫 How to reach me: nancyfaks@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm an actress in my spare time! 
